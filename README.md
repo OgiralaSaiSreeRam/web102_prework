@@ -29,8 +29,8 @@ Here's a walkthrough of implemented features:
 
 <!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/GavFtDP"><a href="//imgur.com/GavFtDP">Prework for Web102</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
-<!-- ![] ()
-Please follow the link- https://imgur.com/8hr4wB1 if the gif is not visible. It shows to confirm 18+ age for reasons I do not know. -->
+![](https://github.com/OgiralaSaiSreeRam/web102_prework/blob/main/latest_website.gif)
+<!-- Please follow the link- https://imgur.com/8hr4wB1 if the gif is not visible. It shows to confirm 18+ age for reasons I do not know. --> 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
