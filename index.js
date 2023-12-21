@@ -138,6 +138,7 @@ function showAllGames() {
 
 }
 
+showAllGames() //Default it will show all the games  
 // select each button in the "Our Games" section
 const unfundedBtn = document.getElementById("unfunded-btn");
 const fundedBtn = document.getElementById("funded-btn");
