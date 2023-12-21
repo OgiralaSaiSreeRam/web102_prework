@@ -25,7 +25,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/ZSARSE7' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+<img src='https://imgur.com/a/GavFtDP' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/GavFtDP"><a href="//imgur.com/GavFtDP">Prework for Web102</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Please follow the link- https://imgur.com/a/TLFz6KS if the gif is not visible. It shows to confirm 18+ age for reasons I do not know.
 
