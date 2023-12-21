@@ -10,22 +10,22 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ X ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ X ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ X ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ X ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
 
 
-* [ X ] Made the buttons interactive by changing the CSS so it gets highlighted when the user wants to click on it.
+* [x] Made the buttons interactive by changing the CSS so it gets highlighted when the user wants to click on it.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/TLFz6KS' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+<img src='https://imgur.com/ZSARSE7' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 Please follow the link- https://imgur.com/a/TLFz6KS if the gif is not visible. It shows to confirm 18+ age for reasons I do not know.
 
